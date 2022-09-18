@@ -4,9 +4,9 @@ Petlover was a practice project that taught us about React Router and API integr
 
 ## Technologies and software used 
 
--HTML
--CSS
--JavaScript
--React
--React Router
+-HTML<br>
+-CSS<br>
+-JavaScript<br>
+-React<br>
+-React Router<br>
 
